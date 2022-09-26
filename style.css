@@ -1,0 +1,16 @@
+body
+{
+  color:black;
+  background:#11c9bf;
+}
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size:18px ;
+    line-height: 3;
+    background-color:lavender ;
+    text-align:center ;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
